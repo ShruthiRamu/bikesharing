@@ -43,7 +43,7 @@ This is a summary of the analytic work that I did with the NYC Citi Bike data.
         As it can be interpreted from the data, the number of subscribers and customers increased significantly as the population increased.
 
 
-# The link for the Tableau Story:
+## The link for the Tableau Story:
 
     https://public.tableau.com/profile/rajath6396#!/vizhome/NYcitibikeTripData_15846584864920/Challenge
 
