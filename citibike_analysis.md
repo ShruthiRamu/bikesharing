@@ -44,8 +44,7 @@ This is a summary of the analytic work that I did with the NYC Citi Bike data.
 
 
 ## The link for the Tableau Story:
-
-    [https://public.tableau.com/profile/rajath6396#!/vizhome/NYcitibikeTripData_15846584864920/Challenge] : https://public.tableau.com/profile/rajath6396#!/vizhome/NYcitibikeTripData_15846584864920/Challenge
+https://public.tableau.com/profile/rajath6396#!/vizhome/NYcitibikeTripData_15846584864920/Challenge
 
 
 ## Resources:
